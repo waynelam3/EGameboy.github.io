@@ -52,4 +52,19 @@
  padding-left: 3px;
  padding-bottom: 3px;
 }
-     
+.Navigation a:link {
+ color: orange;
+ text-decoration: none;
+}
+.Navigation a:visited {
+ color: orange;
+ text-decoration: none;
+}     
+.Navigation a:active {
+ color: orange;
+ text-decoration: none;
+}     
+.Navigation a:hover {
+ color: blue;
+ text-decoration: none;
+}     
