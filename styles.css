@@ -37,4 +37,19 @@
       a:hover{
         color: blue;
       }
+.SiteName{
+ font-size: 28px;
+ font-weight: bold;
+ background-color: white;
+ color: orange;
+ padding-top: 10px;
+ text-align: center;
+}
+.Navigation{
+ font-size: x-small;
+ background-color: white;
+ color: orange;
+ padding-left: 3px;
+ padding-bottom: 3px;
+}
      
