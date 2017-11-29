@@ -38,7 +38,7 @@
         color: blue;
       }
 .SiteName{
- font-size: 28px;
+ font-size: 36px;
  font-weight: bold;
  background-color: white;
  color: orange;
@@ -46,7 +46,7 @@
  text-align: center;
 }
 .Navigation{
- font-size: x-small;
+ font-size: small;
  background-color: white;
  color: orange;
  padding-left: 3px;
